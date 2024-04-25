@@ -1,0 +1,9 @@
+.cuadro{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 220px;
+    margin-left: 45%;
+}
